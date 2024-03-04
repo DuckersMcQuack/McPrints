@@ -1,0 +1,7 @@
+How to achieve stringing free PETG:
+
+Disable Outer wall wipe distance
+Disable retraction prime distance
+Enable Zhop, set distance to roughly 1x-2x layer height and set hop speed to 60mm's. 
+
+Have not tried faster myself, but that reduced stringin by 90%.
